@@ -7,5 +7,7 @@ async function bootstrap() {
   console.log('Application is running on: http://localhost:3000');
   console.log('test new')
   console.log('test2')
+  console.log('test3')
+
 }
 bootstrap();
